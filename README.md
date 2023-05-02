@@ -1,4 +1,4 @@
-## Automatic Identification and Counting of Blood Cells
+## CNN Based Automatic Identification and Counting of Blood Cells using YOLO
 
 ## Dataset
 The [```Complete Blood Count (CBC) Dataset```](https://github.com/MahmudulAlam/Complete-Blood-Cell-Count-Dataset) has been used for automatic identification and counting of blood cells. Download the dataset, unzip and put the ```Training```, ```Testing```, and ```Validation``` folder in the working directory.
